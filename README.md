@@ -1,124 +1,161 @@
-# 30-Day American English Listening Plan
+# **30-Day Plan to Improve Listening Skills in American English**
 
-## Week 1: Building Foundational Skills
-**Goal**: Familiarize yourself with American English and basic technical vocabulary.
+## **Week 1: Building the Foundation**  
+**Goal**: Get familiar with American English basics and technical vocabulary.
 
-### Day 1-3: American English for Beginners
-- **Activity**: Listen to beginner-friendly podcasts with American English speakers.  
-  - **Resource**: [The American English Podcast](https://www.americanenglishpodcast.com/)  
-  - **Duration**: 20–30 minutes/day.  
-- **Task**: Write down 5–10 new words/phrases. Focus on American pronunciation.  
-- **Practice**: Repeat key phrases aloud to practice American accent sounds.  
-- [ ] Complete Day 1  
-- [ ] Complete Day 2  
-- [ ] Complete Day 3
+### **Day 1-3: Everyday American English**  
+- **Activity**: Watch videos with simple and practical language.  
+  - **Resource**: [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa)  
+    - Learn practical English with Vanessa’s clear explanations.  
+  - **Subtitles**: Yes, available on YouTube (enable via "CC").  
+  - **Duration**: 20–30 minutes per day.  
+- **Task**: Write down 5–10 new words or phrases and practice speaking them aloud.  
+- [ ] Day 1 Completed  
+- [ ] Day 2 Completed  
+- [ ] Day 3 Completed  
 
-### Day 4-6: Everyday Conversations in American English
-- **Activity**: Watch American TV shows or movies with English subtitles (then remove them).  
-  - **Resource**: [Friends on Netflix](https://www.netflix.com) or [The Office (U.S.) on Peacock](https://www.peacocktv.com/)  
-  - **Duration**: 30 minutes/day.  
-- **Task**: Focus on understanding natural American speech patterns, idiomatic expressions, and slang.  
-- [ ] Complete Day 4  
-- [ ] Complete Day 5  
-- [ ] Complete Day 6
+---
 
-### Day 7: Listening Practice for Engineers (American Tech Accent)
-- **Activity**: Watch American tech-related talks or tutorials.  
-  - **Resource**: [Traversy Media (YouTube)](https://www.youtube.com/user/TechGuyWeb)  
+### **Day 4-6: Everyday Conversations in American English**  
+- **Activity**: Watch vlogs or videos about daily life.  
+  - **Resource**: [Rachel's English](https://www.youtube.com/@rachelsenglish)  
+    - Focuses on American pronunciation and common phrases.  
+  - **Subtitles**: Yes, available on YouTube.  
+  - **Duration**: 30 minutes per day.  
+- **Task**: Identify idiomatic expressions and practice imitating the pronunciation.  
+- [ ] Day 4 Completed  
+- [ ] Day 5 Completed  
+- [ ] Day 6 Completed  
+
+---
+
+### **Day 7: Technical Listening for Engineers**  
+- **Activity**: Watch technical tutorials.  
+  - **Resource**: [freeCodeCamp.org](https://www.youtube.com/freecodecamp)  
+    - High-quality tutorials on web development and front-end topics.  
+  - **Subtitles**: Yes, available on YouTube.  
   - **Duration**: 30 minutes.  
-- **Task**: Write a summary of key points, focusing on technical vocabulary and American pronunciation.  
-- [ ] Complete Day 7
+- **Task**: Take note of technical terms and pay attention to American pronunciation.  
+- [ ] Day 7 Completed  
 
 ---
 
-## Week 2: Expanding Comprehension
-**Goal**: Improve understanding of American English in both technical and everyday settings.
+## **Week 2: Expanding Comprehension**  
+**Goal**: Improve listening comprehension in different contexts.
 
-### Day 8-10: American Tech Podcasts
-- **Activity**: Listen to podcasts that feature American speakers in the tech field.  
-  - **Resource**: [Syntax.fm - Frontend Development Podcast](https://syntax.fm)  
-  - **Duration**: 30–40 minutes/day.  
-- **Task**: Write down unfamiliar words and phrases. Focus on how Americans pronounce them.  
-- [ ] Complete Day 8  
-- [ ] Complete Day 9  
-- [ ] Complete Day 10
-
-### Day 11-13: Coding Tutorials and Talks with American Speakers
-- **Activity**: Watch coding tutorials or technical talks in American English.  
-  - **Resource**: [freeCodeCamp (YouTube)](https://www.youtube.com/freecodecamp)  
-  - **Duration**: 45 minutes/day.  
-- **Task**: Listen for technical terms and focus on the American accent.  
-- [ ] Complete Day 11  
-- [ ] Complete Day 12  
-- [ ] Complete Day 13
-
-### Day 14: Listening Test for Progress
-- **Activity**: Take an online listening test focused on American English pronunciation.  
-  - **Resource**: [TOEFL Listening Practice](https://www.ets.org/toefl/test-takers/ibt/prepare/tests/)  
-- **Task**: Reflect on areas where you find American accent differences challenging.  
-- [ ] Complete Day 14
+### **Day 8-10: Podcasts with Subtitles**  
+- **Activity**: Watch podcasts with transcripts or subtitles on YouTube.  
+  - **Resource**: [The Ed Mylett Show](https://www.youtube.com/@EdMylett)  
+    - Motivational and entrepreneurial discussions in American English.  
+  - **Subtitles**: Yes, available on YouTube.  
+  - **Duration**: 30–40 minutes per day.  
+- **Task**: Summarize key points and practice difficult words.  
+- [ ] Day 8 Completed  
+- [ ] Day 9 Completed  
+- [ ] Day 10 Completed  
 
 ---
 
-## Week 3: Advanced Listening Challenges
-**Goal**: Improve comprehension of faster American speech and complex vocabulary.
-
-### Day 15-17: Advanced American Podcasts
-- **Activity**: Listen to American English podcasts with native speakers.  
-  - **Resource**: [TED Talks Daily (American speakers)](https://www.ted.com/podcasts/ted-talks-daily)  
-  - **Duration**: 45–60 minutes/day.  
-- **Task**: Summarize the main points and pay attention to how Americans stress words.  
-- [ ] Complete Day 15  
-- [ ] Complete Day 16  
-- [ ] Complete Day 17
-
-### Day 18-20: Industry-Specific Content with American Accents
-- **Activity**: Watch American tech talks or conference presentations.  
-  - **Resource**: [Google Chrome Developers (YouTube)](https://www.youtube.com/c/GoogleChromeDevelopers)  
-  - **Duration**: 40 minutes/day.  
-- **Task**: Focus on how the speakers present complex technical concepts with an American accent.  
-- [ ] Complete Day 18  
-- [ ] Complete Day 19  
-- [ ] Complete Day 20
-
-### Day 21: Listening Test with American Accents
-- **Activity**: Take a listening test featuring American speakers.  
-  - **Resource**: [TOEFL Listening Practice](https://www.ets.org/toefl/test-takers/ibt/prepare/tests/)  
-- **Task**: Evaluate your ability to understand native American speech.  
-- [ ] Complete Day 21
+### **Day 11-13: Front-End Development Tutorials**  
+- **Activity**: Watch videos about front-end development.  
+  - **Resource**: [Traversy Media](https://www.youtube.com/@TraversyMedia)  
+    - Tutorials on JavaScript, React, and more.  
+  - **Subtitles**: Yes, available on YouTube.  
+  - **Duration**: 45 minutes per day.  
+- **Task**: Note key technical concepts and practice explaining them in English.  
+- [ ] Day 11 Completed  
+- [ ] Day 12 Completed  
+- [ ] Day 13 Completed  
 
 ---
 
-## Week 4: Real-World Application
-**Goal**: Expose yourself to diverse American accents and work-related English.
+### **Day 14: Listening Test**  
+- **Activity**: Take a listening test to evaluate progress.  
+  - **Resource**: [ELLLO English Listening Lessons](https://elllo.org/)  
+    - Free exercises with audio and transcripts.  
+  - **Subtitles**: Yes, transcripts available.  
+  - **Task**: Identify areas of difficulty and review vocabulary.  
+- [ ] Day 14 Completed  
 
-### Day 22-24: Real Conversations in American English
-- **Activity**: Listen to real conversations in American English (tech-related or informal).  
-  - **Resource**: Join a conversation group or listen to live chats on platforms like [Discord](https://discord.com/), [Slack](https://slack.com/intl/en-br/), or tech meetups.  
-  - **Duration**: 30–40 minutes/day.  
-- **Task**: Take notes on key phrases, slang, and accent nuances.  
-- [ ] Complete Day 22  
-- [ ] Complete Day 23  
-- [ ] Complete Day 24
+---
 
-### Day 25-27: Immersive American Content
-- **Activity**: Watch American interviews, podcasts, or vlogs.  
-  - **Resource**: [Ali Abdaal’s Vlogs (YouTube)](https://www.youtube.com/user/aliabdaal)  
-  - **Duration**: 45 minutes/day.  
-- **Task**: Listen for informal language, jokes, and idiomatic expressions.  
-- [ ] Complete Day 25  
-- [ ] Complete Day 26  
-- [ ] Complete Day 27
+## **Week 3: Advanced Challenges**  
+**Goal**: Understand faster speech and expand technical vocabulary.
 
-### Day 28-29: Immersion in American Real-Life English
-- **Activity**: Listen to diverse American content—vlogs, podcasts, live streams.  
-  - **Resource**: [The Changelog Podcast](https://changelog.com/podcast)  
-- **Task**: Pay attention to American accent variations and pronunciation differences.  
-- [ ] Complete Day 28  
-- [ ] Complete Day 29
+### **Day 15-17: Advanced Content on YouTube**  
+- **Activity**: Watch advanced discussions or debates.  
+  - **Resource**: [Lex Fridman Podcast](https://www.youtube.com/@lexfridman)  
+    - Interviews on AI, science, and technology with American speakers.  
+  - **Subtitles**: Yes, available on YouTube.  
+  - **Duration**: 45–60 minutes per day.  
+- **Task**: Summarize main ideas and practice explaining complex concepts.  
+- [ ] Day 15 Completed  
+- [ ] Day 16 Completed  
+- [ ] Day 17 Completed  
 
-### Day 30: Final Listening Test for American English
-- **Activity**: Take an advanced listening test that focuses on understanding American English.  
+---
+
+### **Day 18-20: High-Quality Technical Content**  
+- **Activity**: Watch presentations and tutorials on web development.  
+  - **Resource**: [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)  
+    - Focused on web development and best practices.  
+  - **Subtitles**: Yes, available on YouTube.  
+  - **Duration**: 40 minutes per day.  
+- **Task**: Observe how complex topics are explained with clarity.  
+- [ ] Day 18 Completed  
+- [ ] Day 19 Completed  
+- [ ] Day 20 Completed  
+
+---
+
+### **Day 21: Advanced Listening Test**  
+- **Activity**: Take a listening test to assess your comprehension.  
   - **Resource**: [TOEFL Listening Practice](https://www.ets.org/toefl/test-takers/ibt/prepare/tests/)  
-- **Task**: Compare results with your earlier test and analyze your progress.  
-- [ ] Complete Day 30
+    - Free practice materials with transcripts.  
+  - **Subtitles**: Yes, transcripts available.  
+  - **Task**: Compare results with the test from Day 14.  
+- [ ] Day 21 Completed  
+
+---
+
+## **Week 4: Real-World Application**  
+**Goal**: Exposure to varied American accents and real-life scenarios.
+
+### **Day 22-24: Real-Life Conversations**  
+- **Activity**: Participate in online communities or watch live discussions.  
+  - **Resource**: [Dev Ed](https://www.youtube.com/@DevEd)  
+    - Casual and technical videos about front-end development.  
+  - **Subtitles**: Yes, available on YouTube.  
+  - **Duration**: 30–40 minutes per day.  
+- [ ] Day 22 Completed  
+- [ ] Day 23 Completed  
+- [ ] Day 24 Completed  
+
+---
+
+### **Day 25-27: Immersion in Real-Life Content**  
+- **Activity**: Watch interviews, vlogs, or live streams in American English.  
+  - **Resource**: [Casey Neistat](https://www.youtube.com/@caseyneistat)  
+    - American vlogs about daily life and creativity.  
+  - **Subtitles**: Yes, available on YouTube.  
+  - **Duration**: 45 minutes per day.  
+- [ ] Day 25 Completed  
+- [ ] Day 26 Completed  
+- [ ] Day 27 Completed  
+
+---
+
+### **Day 28-29: Refining Listening and Pronunciation**  
+- **Activity**: Continue watching varied content in American English.  
+  - **Resource**: Pick your favorite from the previous resources.  
+  - **Task**: Note different accents and practice imitating them.  
+- [ ] Day 28 Completed  
+- [ ] Day 29 Completed  
+
+---
+
+### **Day 30: Final Evaluation**  
+- **Activity**: Take a final listening test to measure your progress.  
+  - **Resource**: [ELLLO English Listening Lessons](https://elllo.org/)  
+  - **Task**: Compare results with Day 14 and Day 21.  
+- [ ] Day 30 Completed
