@@ -45,7 +45,7 @@
 
 ### **Day 8-10: Podcasts with Subtitles**  
 - **Activity**: Watch podcasts with transcripts or subtitles on YouTube.  
-  - **Resource**: [The Ed Mylett Show](https://www.youtube.com/@EdMylett)  
+  - **Resource**: [The Ed Mylett Show](https://www.youtube.com/@EdMylettShow)  
     - Motivational and entrepreneurial discussions in American English.  
   - **Subtitles**: Yes, available on YouTube.  
   - **Duration**: 30–40 minutes per day.  
