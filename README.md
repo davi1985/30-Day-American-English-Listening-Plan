@@ -123,7 +123,7 @@
 
 ### **Day 22-24: Real-Life Conversations**  
 - **Activity**: Participate in online communities or watch live discussions.  
-  - **Resource**: [Dev Ed](https://www.youtube.com/@DevEd)  
+  - **Resource**: [Dev Ed](https://www.youtube.com/@developedbyed)  
     - Casual and technical videos about front-end development.  
   - **Subtitles**: Yes, available on YouTube.  
   - **Duration**: 30–40 minutes per day.  
@@ -135,7 +135,7 @@
 
 ### **Day 25-27: Immersion in Real-Life Content**  
 - **Activity**: Watch interviews, vlogs, or live streams in American English.  
-  - **Resource**: [Casey Neistat](https://www.youtube.com/@caseyneistat)  
+  - **Resource**: [Casey Neistat](https://www.youtube.com/@casey)  
     - American vlogs about daily life and creativity.  
   - **Subtitles**: Yes, available on YouTube.  
   - **Duration**: 45 minutes per day.  
